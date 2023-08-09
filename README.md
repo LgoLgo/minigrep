@@ -1,8 +1,6 @@
-# .github
+<h1 align="center">minigrep</h1>
 
-English | [中文](README_zh.md)
-
-Money is cheap, show me the code.
+<p align="center">Toy level grep aimed at practicing Rust basics.</p>
 
 ## License
 
